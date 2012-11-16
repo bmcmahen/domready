@@ -1,0 +1,13 @@
+{
+  "name": "domready",
+  "repo": "bmcmahen/domready",
+  "description": "cross-browser dom ready function",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
